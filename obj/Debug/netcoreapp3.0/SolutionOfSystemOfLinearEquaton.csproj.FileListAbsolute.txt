@@ -1,0 +1,11 @@
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\bin\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.exe
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\bin\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.deps.json
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\bin\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.runtimeconfig.json
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\bin\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.runtimeconfig.dev.json
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\bin\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.dll
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\bin\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.pdb
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\obj\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.csprojAssemblyReference.cache
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\obj\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.AssemblyInfoInputs.cache
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\obj\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.AssemblyInfo.cs
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\obj\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.dll
+C:\Users\Shariq\Desktop\Temp Documents\SolutionOfSystemOfLinearEquaton\obj\Debug\netcoreapp3.0\SolutionOfSystemOfLinearEquaton.pdb
